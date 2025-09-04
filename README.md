@@ -10,9 +10,9 @@ Headers: Content-Type: application/json
 Body (raw JSON):
 
 {
-  "name": "Anna Cruz",
-  "email": "anna@email.com",
-  "date": "2025-09-01"
+  "name": "",
+  "email": "",
+  "date": ""
 }
 
 return should 
